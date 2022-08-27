@@ -112,5 +112,9 @@
 <br/>  
 
 <div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mpvasilis&" alt="mpvasilis" /></p>
+</div>  
+<br/>  
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=mpvasilis&&style=flat-square" align="center" />
 </div>  
