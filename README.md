@@ -5,16 +5,17 @@
 
 ### <div align="center">I'm Vasilis Balafas,  full-stack software engineer👨‍💻 from Greece!</div>  
   
-
 - 🎓 I’m currently doing a Ph.D. in Artificial Intelligence and Cloud Computing  
   
-
 - ❓ Ask me about anything related to the technologies and tools of my skill set  
-  
+
+- 👨‍💻 All of my projects are available at [https://vasilis.pw](https://vasilis.pw)
+
+- 📫 How to reach me **me@vasilis.pw**
 
 - ⚡ Fun fact: I use tabs over spaces  
   
-
+  
 <br/>  
 
 
