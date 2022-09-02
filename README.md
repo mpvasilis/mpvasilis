@@ -9,7 +9,7 @@
   
 - ❓ Ask me about anything related to the technologies and tools of my skill set  
 
-- 👨‍💻 All of my projects are available at [https://vasilis.pw](https://vasilis.pw)
+- 👨‍💻 Some of my projects are available at [https://vasilis.pw](https://vasilis.pw)
 
 - 📫 How to reach me **me@vasilis.pw**
 
