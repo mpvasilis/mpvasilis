@@ -11,17 +11,13 @@
 
 - 👨‍💻 Some of my projects are available at [https://vasilis.pw](https://vasilis.pw)
 
-- 📫 How to reach me **me@vasilis.pw**
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
+- 📫 How to reach me **me@vasilis.pw**  
   
 <br/>  
 
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 
 ### Frontend  
