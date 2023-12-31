@@ -1,19 +1,18 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>
 
-### <div align="center">I'm Vasilis Balafas,  full-stack software engineer👨‍💻 from Greece!</div>  
-  
-- 🎓 I’m currently doing a Ph.D. in Artificial Intelligence and Cloud Computing  
-  
-- ❓ Ask me about anything related to the technologies and tools of my skill set  
+### <div align="center">Hi there, I'm Vasilis Balafas 👋</div>
+#### <div align="center">A Passionate Full-Stack Software Engineer from Greece 🚀</div>
 
-- 👨‍💻 Some of my projects are available at [https://vasilis.pw](https://vasilis.pw)
+I'm currently deep-diving into the realms of **Artificial Intelligence** and **Cloud Computing** as I pursue my Ph.D. 🎓. My world revolves around coding, designing, and constantly learning. I love exploring new technologies and leveraging them to solve real-life problems ✨.
 
-- 📫 How to reach me **me@vasilis.pw**  
-  
-<br/>  
+- 🌱 I’m currently learning about **Advanced AI Algorithms** and **Cloud Infrastructure**.
+- 💬 Ask me about anything related to **Java, JavaScript, Python, AI,** and my experiences - I'm here to help!
+- 👨‍💻 Dive into my projects here: [vasilis.pw](https://vasilis.pw)
+- 📫 Reach out to me at: **me@vasilis.pw**
+
+Let's connect and build the future together!
 
 
 ## My Skill Set  
