@@ -3,7 +3,7 @@
 </div>
 
 ### <div align="center">Hi there, I'm Vasilis Balafas 👋</div>
-#### <div align="center">A Passionate Full-Stack Software Engineer from Greece 🚀</div>
+#### <div align="center">A Passionate Software Engineer from Greece 🚀</div>
 
 I'm currently deep-diving into the realms of **Artificial Intelligence** and **Cloud Computing** as I pursue my Ph.D. 🎓. My world revolves around coding, designing, and constantly learning. I love exploring new technologies and leveraging them to solve real-life problems ✨.
 
