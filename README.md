@@ -11,12 +11,8 @@ I'm currently deep-diving into the realms of **Artificial Intelligence** and **C
 - 👨‍💻 Dive into my projects here: [vasilis.pw](https://vasilis.pw)
 - 📫 Reach out to me at: **me@vasilis.pw**
 
-Let's connect and build the future together!
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 ### Frontend  
 <div align="center">  
