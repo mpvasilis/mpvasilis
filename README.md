@@ -1,5 +1,5 @@
 
-<h2 align="center">Hi there, I'm Vasilis Balafas 👋</h2>
+<h2 align="center">Hi there, I'm Vasilis 👋</h2>
 <h4 align="center">AI Researcher • Software Engineer • Startup CTO</h4>
 <p align="center">
   🇬🇷 Based in Greece &mdash; Building the future with AI, Optimization, and Scalable Systems.
