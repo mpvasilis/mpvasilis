@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>
-
-<br/>
 
 <h2 align="center">Hi there, I'm Vasilis Balafas 👋</h2>
 <h4 align="center">AI Researcher • Software Engineer • Startup CTO</h4>
@@ -44,6 +39,3 @@ As the **CTO & Co-founder of Innovation Bee**, I lead a team that delivers AI-po
 - ⚡ Built PostMatrix.app, Askity.ai, and other SaaS tools powered by AI
 - 🌱 Co-founded Gridustry, a blockchain-based green energy platform
 - 🧠 Led R&D in multiple EU-funded innovation projects totaling €1M+
-- 
-
-
